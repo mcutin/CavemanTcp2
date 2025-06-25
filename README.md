@@ -1,4 +1,4 @@
-﻿![alt tag](https://github.com/jchristn/cavemantcp/blob/master/assets/icon.ico)
+﻿![alt tag](https://github.com/mcutin/cavemantcp2/blob/master/assets/icon.ico)
 
 # CavemanTcp
 
